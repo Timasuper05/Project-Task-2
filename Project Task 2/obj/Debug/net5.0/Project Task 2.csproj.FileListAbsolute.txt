@@ -1,0 +1,16 @@
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\Project Task 2.exe
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\Project Task 2.deps.json
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\Project Task 2.runtimeconfig.json
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\Project Task 2.runtimeconfig.dev.json
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\Project Task 2.dll
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\ref\Project Task 2.dll
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\bin\Debug\net5.0\Project Task 2.pdb
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.csprojAssemblyReference.cache
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.AssemblyInfoInputs.cache
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.AssemblyInfo.cs
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.csproj.CoreCompileInputs.cache
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.dll
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\ref\Project Task 2.dll
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.pdb
+E:\OneDrive\Рабочий стол\Projects\Project Task 2\Project Task 2\obj\Debug\net5.0\Project Task 2.genruntimeconfig.cache
